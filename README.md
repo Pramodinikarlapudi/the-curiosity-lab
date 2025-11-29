@@ -11,3 +11,6 @@ PDF is shared in the Medium Articles folder (Would suggest to use the medium lin
 🍒 **THE PERCEPTRON: A probabilistic model for information storage and organization in the brain**: https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf  
 
 🍒 **The Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position**: https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf  
+
+🍒 **Learning representations by back-propagating errors (1986)**: https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf  
+

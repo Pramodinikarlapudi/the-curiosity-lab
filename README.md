@@ -18,7 +18,9 @@ PDF is shared in the Medium Articles folder (Would suggest to use the medium lin
 
 🍒 **Finding Structure in Time (1990)** {RNN}: https://www2.fiit.stuba.sk/~kvasnicka/NeuralNetworks/6.prednaska/Elman_SRNN_paper.pdf  
 
-🍒 **GradientBased Learning Applied to Document Recognition (1998)**: http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf  
+🍒 **GradientBased Learning Applied to Document Recognition (1998)** {CNN}: http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf  
+
+🍒 **Convolutional Networks and Applications in Vision (2023)**: http://yann.lecun.com/exdb/publis/pdf/lecun-iscas-10.pdf  
 
 
 

@@ -8,4 +8,6 @@ PDF is shared in the Medium Articles folder (Would suggest to use the medium lin
 
 🍒 **A Logical Calculus of the Ideas Immanent in Nervous activity**: https://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf    
 
-🍒 **THE PERCEPTRON: A probabilistic model for information storage and organization in the brain**: https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf
+🍒 **THE PERCEPTRON: A probabilistic model for information storage and organization in the brain**: https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf  
+
+🍒 **The Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position**: https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf  

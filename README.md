@@ -6,5 +6,5 @@ PDF is shared in the Medium Articles folder (Would suggest to use the medium lin
 
 **Research Papers**  
 
-🍒 A Logical Calculus of the Ideas Immanent in Nervous activity: https://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf  
+🍒 **A Logical Calculus of the Ideas Immanent in Nervous activity**: https://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf  
 

@@ -14,3 +14,7 @@ PDF is shared in the Medium Articles folder (Would suggest to use the medium lin
 
 🍒 **Learning representations by back-propagating errors (1986)**: https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf  
 
+🍒 **SERIAL ORDER: A PARALLEL DISTRIBUTED PROCESSING APPROACH (1986)** {RNN} : https://cseweb.ucsd.edu/~gary/PAPER-SUGGESTIONS/Jordan-TR-8604-OCRed.pdf
+
+
+

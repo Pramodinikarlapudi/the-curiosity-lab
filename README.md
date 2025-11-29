@@ -14,9 +14,11 @@ PDF is shared in the Medium Articles folder (Would suggest to use the medium lin
 
 🍒 **Learning representations by back-propagating errors (1986)**: https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf  
 
-🍒 **SERIAL ORDER: A PARALLEL DISTRIBUTED PROCESSING APPROACH (1986)** {RNN} : https://cseweb.ucsd.edu/~gary/PAPER-SUGGESTIONS/Jordan-TR-8604-OCRed.pdf  
+🍒 **SERIAL ORDER: A PARALLEL DISTRIBUTED PROCESSING APPROACH (1986)** {RNN}: https://cseweb.ucsd.edu/~gary/PAPER-SUGGESTIONS/Jordan-TR-8604-OCRed.pdf  
 
-🍒 **Finding Structure in Time (1990)**: https://www2.fiit.stuba.sk/~kvasnicka/NeuralNetworks/6.prednaska/Elman_SRNN_paper.pdf  
+🍒 **Finding Structure in Time (1990)** {RNN}: https://www2.fiit.stuba.sk/~kvasnicka/NeuralNetworks/6.prednaska/Elman_SRNN_paper.pdf  
+
+🍒 **GradientBased Learning Applied to Document Recognition (1998)**: http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf  
 
 
 
